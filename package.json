@@ -7,9 +7,8 @@
   },
   "dependencies": {
     "prop-types": "^15.5.10",
-    "react": "^16.0.0",
-    "react-native": "^0.50.0",
-    "react-native-root-modal": "^1.0.4",
-    "react-native-svg": "^6.0.0-rc12"
+    "react": "link:../node_modules/react",
+    "react-native": "link:../node_modules/react-native-macos",
+    "react-native-svg": "link:.."
   }
 }

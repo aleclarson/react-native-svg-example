@@ -26,7 +26,6 @@ import {
 } from 'react-native-svg';
 
 import * as examples from './examples';
-import 'react-native-root-modal';
 
 const hairline = StyleSheet.hairlineWidth;
 
