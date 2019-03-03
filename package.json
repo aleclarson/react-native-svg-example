@@ -10,5 +10,8 @@
     "react": "link:../node_modules/react",
     "react-native": "link:../node_modules/react-native-macos",
     "react-native-svg": "link:.."
+  },
+  "devDependencies": {
+    "prettier": "^1.16.4"
   }
 }
